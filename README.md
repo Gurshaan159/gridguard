@@ -1,6 +1,6 @@
-# GridGuard AI
+# GridGuard
 
-AI-powered power grid monitoring dashboard with live anomaly detection, a US map view, and explainable risk analysis.
+power grid monitoring dashboard with live anomaly detection, a US map view, and explainable risk analysis.
 
 ## What it does
 - Simulates grid telemetry across US nodes (load, voltage, frequency)
